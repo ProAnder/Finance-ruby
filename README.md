@@ -1,0 +1,2 @@
+# Finance-ruby
+say hi
